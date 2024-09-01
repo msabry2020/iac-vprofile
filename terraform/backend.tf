@@ -1,5 +1,5 @@
 terraform {
   backend "local" {
-    path = "/home/admin/backend"
+    path = "/home/admin/GitOps/iac-vprofile/terraform.tfstate"
   }
 }
